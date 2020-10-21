@@ -18,7 +18,7 @@ SpringBoot,Mybatis,Mysql,swagger,Vue.js+ElementUi
 
 - 登录页面
 
-  ![image-20201021100351834](C:\Users\guosz\AppData\Roaming\Typora\typora-user-images\image-20201021100351834.png)
+  ![image](https://github.com/zhaoguoshun/first_blog/blob/main/doc/image/login.png)
 
 - 注册页面
 
