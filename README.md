@@ -22,7 +22,7 @@ SpringBoot,Mybatis,Mysql,swagger,Vue.js+ElementUi
 
 - 注册页面
 
-  ![image-20201021100408512](C:\Users\guosz\AppData\Roaming\Typora\typora-user-images\image-20201021100408512.png)
+  ![image](https://github.com/zhaoguoshun/first_blog/blob/main/doc/image/register.png)
 
 
 - 登录成功页面
