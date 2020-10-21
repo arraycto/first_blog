@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zhaoguoshun.mapper.UserMapper">
+
+    <sql id="user_list">
+        user_name, user_pass,user_nickname,user_email,user_avatar,user_status,user_follow_id,user_collect_id,user_register_time,user_last_login_time
+    </sql>
+
+
+
+    <resultMap id="UserMap" type="User">
+
+        <result column="user_id" jdbcType="INTEGER" property="userId"/>
+        <result column="user_name" jdbcType="VARCHAR" property="userName" />
+        <result column="user_pass" jdbcType="VARCHAR" property="userPass"/>
+        <result column="user_nickname" jdbcType="VARCHAR" property="userNickname"/>
+        <result column="user_email" jdbcType="VARCHAR" property="userEmail"/>
+        <result column="user_avatar" jdbcType="VARCHAR" property="userAvatar"/>
+        <result column="user_status" jdbcType="INTEGER"  property="userStatus"/>
+        <result column="user_follow_id" jdbcType="INTEGER" property="userFollowId"/>
+        <result column="user_collect_id" jdbcType="INTEGER" property="userCollectId"/>
+        <result column="user_register_time"  jdbcType="TIMESTAMP"  property="userRegisterTime"/>
+        <result column="user_last_login_time"  jdbcType="TIMESTAMP" property="userLastLoginTime"/>
+    </resultMap>
+
+
+    <insert id="insertUser"  parameterType="User">
+
+        insert into `user`(user_name,user_pass,user_nickname,user_email,user_avatar,user_status,user_follow_id,user_collect_id,user_register_time,user_last_login_time)
+        values (#{userName},#{userPass},#{userNickname},#{userEmail},#{userAvatar},#{userStatus},#{userFollowId},#{userCollectId},#{userRegisterTime},#{userLastLoginTime})
+    </insert>
+
+
+    <select id="userGetId" resultType="User" resultMap="UserMap">
+        select * from `user` where user_id=#{id}
+    </select>
+
+    <select id="getUserName" resultType="User">
+        select * from `user` where user_name=#{username}
+    </select>
+
+    <select id="loginSubmit" resultType="User" resultMap="UserMap">
+        select * from `user` where `user_name`=#{username} and `user_pass`=#{password}
+    </select>
+
+
+
+
+</mapper>

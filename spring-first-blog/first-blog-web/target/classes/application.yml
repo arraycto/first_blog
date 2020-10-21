@@ -1,0 +1,38 @@
+server:
+  port: 8001
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 985211
+    url: jdbc:mysql://localhost:3306/first_blog?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8&useSSL=false&allowPublicKeyRetrieval=true
+    type: com.alibaba.druid.pool.DruidDataSource
+  application:
+    name: first-blog-User
+
+
+mybatis-plus:
+  type-aliases-package: com.zhaoguoshun.entity
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
+#向注册中心注册
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7002/eureka/
+  instance:
+    instance-id: springcloud-user-8001
+
+info:
+  app.name: zhaoguoshun-cloud
+  company.name: zhaoguoshun.cn
+#对象存储OSS
+alioss:
+  endpoint: oss-cn-hangzhou.aliyuncs.com
+  accessKeyId: LTAI4G1chNsk6ESraKt5DDkE
+  accessKeySecret: t1Q1YxX3SxOkAZn0TVUhmAIbOkxYhv
+  bucketName: first-blog
+
+

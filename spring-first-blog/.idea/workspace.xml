@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7344a04-3d17-43d4-bf48-291be2f075cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="first_blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="12" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ilJVM5uDrvn6Y1WNCuAhn5sFZT" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vue-router-name" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14790076" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\2019_3代码\vue\vue+springboot\spring-first-blog\first-blog-web\src\main\resources\mybatis\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zhaoguoshun" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhaoguoshun.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2019_3代码\vue\vue+springboot\spring-first-blog\first-blog-api\src\main\java\com\zhaoguoshun" />
+      <recent name="D:\2019_3代码\vue\vue+springboot\spring-first-blog\first-blog-web\src\main\java\com\zhaoguoshun" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FirstBlog_web_8001">
+    <configuration name="MybatisPlusConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhaoguoshun.config.MybatisPlusConfig" />
+      <module name="first-blog-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoguoshun.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AliOssTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-blog-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoguoshun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhaoguoshun" />
+      <option name="MAIN_CLASS_NAME" value="com.zhaoguoshun.AliOssTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AliOssTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-blog-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoguoshun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhaoguoshun" />
+      <option name="MAIN_CLASS_NAME" value="com.zhaoguoshun.AliOssTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstBlog_web_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="first-blog-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoguoshun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhaoguoshun.FirstBlog_web_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fist_Eureka_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="first-blog-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoguoshun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhaoguoshun.Fist_Eureka_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FirstBlog_web_8001" />
+        <item itemvalue="Application.MybatisPlusConfig" />
+        <item itemvalue="Spring Boot.Fist_Eureka_7001" />
+        <item itemvalue="JUnit.AliOssTest" />
+        <item itemvalue="JUnit.AliOssTest.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7344a04-3d17-43d4-bf48-291be2f075cc" name="Default Changelist" comment="" />
+      <created>1602476267498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602476267498</updated>
+      <workItem from="1602476268966" duration="962000" />
+      <workItem from="1602815105530" duration="6882000" />
+      <workItem from="1602829462932" duration="1837000" />
+      <workItem from="1602982833510" duration="55841000" />
+      <workItem from="1603154391422" duration="20493000" />
+      <workItem from="1603192524203" duration="1134000" />
+      <workItem from="1603196786139" duration="1771000" />
+      <workItem from="1603200358810" duration="4368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="90" width="813" height="682" key="#Project_Structure" timestamp="1603026651600">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" width="813" height="682" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1603026651600" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603174900785">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1603174900785" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1603182917924">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1603182917924" />
+    <state x="294" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602986201070">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="294" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1602986201070" />
+    <state x="515" y="291" width="506" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602987575320">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="515" y="291" width="506" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1602987575320" />
+    <state x="515" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602986208262">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="515" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.864@0.0.1536.864" timestamp="1602986208262" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1603109811996">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603109811996" />
+    <state width="1493" height="404" key="GridCell.Tab.0.bottom" timestamp="1603241451426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603241451426" />
+    <state width="1493" height="404" key="GridCell.Tab.0.center" timestamp="1603241451426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603241451426" />
+    <state width="1493" height="404" key="GridCell.Tab.0.left" timestamp="1603241451424">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603241451424" />
+    <state width="1493" height="404" key="GridCell.Tab.0.right" timestamp="1603241451426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603241451426" />
+    <state width="1493" height="404" key="GridCell.Tab.1.bottom" timestamp="1603241451427">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603241451427" />
+    <state width="1493" height="404" key="GridCell.Tab.1.center" timestamp="1603241451426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1603241451426" />
+    <state width="1493" height="404" key="GridCell.Tab.1.left" timestamp="1603241451426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1603241451426" />
+    <state width="1493" height="404" key="GridCell.Tab.1.right" timestamp="1603241451427">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="404" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1603241451427" />
+    <state x="349" y="88" key="com.intellij.database.dbimport.ImportDialog" timestamp="1603112520860">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="88" key="com.intellij.database.dbimport.ImportDialog/0.0.1536.864@0.0.1536.864" timestamp="1603112520860" />
+    <state x="548" y="247" width="439" height="362" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1603017225001">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="247" width="439" height="362" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.864@0.0.1536.864" timestamp="1603017225001" />
+    <state x="280" y="100" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603179187408">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="280" y="100" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1603179187408" />
+    <state x="449" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1603192525737">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1603192525737" />
+    <state x="178" y="127" key="new project wizard" timestamp="1602817196373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="127" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1602817196373" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1603201223151">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1603201223151" />
+  </component>
+</project>

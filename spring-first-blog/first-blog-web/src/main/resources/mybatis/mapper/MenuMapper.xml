@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zhaoguoshun.mapper.MenuMapper">
+
+    <sql id="MenuSql">
+        menu_id, parent_id,menu_name,url,icon,create_time
+    </sql>
+
+    <resultMap id="BaseMap" type="Menu">
+        <result column="menu_id" property="menuId"/>
+        <result column="parent_id" property="parentId"/>
+        <result column="menu_name" property="menuName"/>
+        <result column="url" property="url"/>
+        <result column="icon" property="icon"/>
+        <result column="create_time" property="createTime"/>
+    </resultMap>
+
+    <select id="menuList" resultType="Menu" resultMap="BaseMap">
+        select <include refid="MenuSql"/>
+        from menu
+    </select>
+</mapper>

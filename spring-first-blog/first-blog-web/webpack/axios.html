@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <script>
+
+        // axios.get('http://localhost:8001/user/list/1').then(function (response) {
+        //     console.log(response)
+        // })
+
+        axios.post('http://localhost:8001/user/insert',{
+            userName: 'zhaoguoshun',
+            userNickname: '赵国顺',
+            userPass: '985211',
+            userEmail: 'guoshunsir@qq.com'
+        })
+    </script>
+</head>
+<body>
+
+</body>
+</html>
