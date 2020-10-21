@@ -18,13 +18,14 @@ SpringBoot,Mybatis,Mysql,swagger,Vue.js+ElementUi
 
 - 登录页面
 
-![image-20201021085141558](C:\Users\guosz\AppData\Roaming\Typora\typora-user-images\image-20201021085141558.png)
 
-- 注册页面![image-20201021085235696](C:\Users\guosz\AppData\Roaming\Typora\typora-user-images\image-20201021085235696.png)
+
+- 注册页面
+
 
 - 登录成功页面
 
-  ![image-20201021085343339](C:\Users\guosz\AppData\Roaming\Typora\typora-user-images\image-20201021085343339.png)
+  
 
 ### 联系作者
 
