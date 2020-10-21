@@ -27,7 +27,7 @@ SpringBoot,Mybatis,Mysql,swagger,Vue.js+ElementUi
 
 - 登录成功页面
 
-  ![image-20201021100441397](C:\Users\guosz\AppData\Roaming\Typora\typora-user-images\image-20201021100441397.png)
+  ![image](https://github.com/zhaoguoshun/first_blog/blob/main/doc/image/index.png)
 
 ### 联系作者
 
